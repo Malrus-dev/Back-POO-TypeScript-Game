@@ -17,9 +17,9 @@ SOLID
 ## Como rodar o projeto:
 
 1. Clone o repositório
-  - `git@github.com:Malrus-dev/Back-POO-TypeScript-Game.git`.
+  - `git clone git@github.com:Malrus-dev/Back-POO-TypeScript-Game.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd DungeonsAndDragons`
+    - `cd Back-POO-TypeScript-Game`
 
 2. Instale as dependências
   -  `npm install`
