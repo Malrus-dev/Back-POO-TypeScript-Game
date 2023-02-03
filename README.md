@@ -1,13 +1,33 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Trybers And Dragons
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este projeto consiste no desenvolvimento da estrutura de um jogo do tipo RPG baseado nos princípios da arquitetura SOLID e os princípios de P.O.O (Programação Orientada a Objetos) utilizando Typescript.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Técnologias usadas
+
+Typescript
+
+Node.Js
+
+Docker
+
+POO
+
+SOLID
+
+## Como rodar o projeto:
+
+1. Clone o repositório
+  - `git@github.com:Malrus-dev/Back-POO-TypeScript-Game.git`.
+  - Entre na pasta do repositório que você acabou de clonar:
+    - `cd DungeonsAndDragons`
+
+2. Instale as dependências
+  -  `npm install`
+
+3. Execute o projeto:
+  - `npm start`
+
+## Observações importantes
+- Apenas os arquivos dentro da pasta `src` foram inteiramente de autoria pessoal, todos os outros arquivos foram criados pela Trybe.
+- O arquivo `src/Battle/index.ts`  foi desenvolvido em parceria com a Trybe.
+- Os arquivos `src/Battle/Battle.ts` e `src/utils.ts` forma desenvolvidos pela Trybe.
